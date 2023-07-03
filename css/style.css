@@ -1,0 +1,13 @@
+#retangulo1 
+{
+    background-color: black;
+}
+.retangulos
+{
+    position: relative;
+    float: left;
+    width: 100px;
+    height: 200px;
+    background-color: aquamarine;
+    margin-left: 5%;
+}
