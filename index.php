@@ -20,7 +20,7 @@
     <?php
         for ($i = 0; $i < 10; $i++)
         {
-            echo "valor de i é:" . $1;
+            echo "valor de i é:" . $i;
         }
     ?>
 </body>
