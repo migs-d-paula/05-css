@@ -20,7 +20,7 @@
     <?php
         for ($i = 0; $i < 10; $i++)
         {
-            echo "valor de i é:" . $i;
+            echo 'div class="retangulos"></div'
         }
     ?>
 </body>
